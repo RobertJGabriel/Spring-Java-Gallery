@@ -1,10 +1,10 @@
-# Art Gallery : Spring Java example with Theamleaf
+# Art Gallery: Maven/Spring Java Project using Thymeleaf
 
 
 ##Setup
-1. Run the scheama in the resouce folder. This will fill the information from the json files (also located at the resouce folder)
-2. Import the project , by file -> import ->  maven -> exisiting maven project.
-3. Run the project , it will import the data
+1. Run the schema in the resource folder. This will fill the information from the JSON files (also located at the resource folder)
+2. Import the project , by file -> import ->  maven -> existing maven project.
+3. Run the project, it will import the data
 4. Visit : [The following](http://localhost:8888)
 
 ##Screenshots
